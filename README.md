@@ -1,10 +1,10 @@
-<h3><ins>Personal Profile of Nkosinathi M Jiyane</h3>
+<h1><ins>Personal Profile of Nkosinathi M Jiyane</h1>
 
 This is a simple website defining my personal profile such as working experience and tools.
 Soon! I will host this simple website so it can be accessed through internet.
 
 
-<h3><ins>How to view-run on your local machine - Tools used below :</h3>
+<h2><ins>How to view-run on your local machine - Tools used below :</h2>
 
 - Visual studio code. You can use any IDE of your choice.
 - On VS Code I used a plugin called : Live server to run on local machine.
