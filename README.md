@@ -17,6 +17,6 @@ Soon! I will host this simple website so it can be accessed through internet.
 
 <h2><ins>Output</h2>
 
-![alt text](assets/output.png)
+![alt text](assets/outputs.png)
 
 <h3><ins>Thank you for your time to view my Profile : Happy coding ++</h3>
