@@ -12,6 +12,7 @@ Soon! I will host this simple website so it can be accessed through internet.
 - Java script : Programming language used to make web pages interactive and dynamic.
 - CSS : Style sheet language - eg colors.
 - Bootstrap : Design front-end framework  eg - responsive.
+- Github : This is where you store my web site. You can use any repo of your choice.
 - Git : version controling tool. eg - push, pull your changes from/ to your repository.
 
 <h2><ins>Output</h2>
