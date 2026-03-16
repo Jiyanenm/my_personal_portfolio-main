@@ -218,7 +218,9 @@ section {
     text-decoration: underline !important;
     color: #0d6efd !important;
 }
-
+.education-text{
+    color: #0d6efd;
+}
 /* Typing Effect Cursor */
 .cursor {
     display: inline-block;
