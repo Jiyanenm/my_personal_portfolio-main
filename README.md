@@ -18,4 +18,4 @@ Soon! I will host this simple website so it can be accessed through internet.
 
 ![alt text](assets/output.png)
 
-<h3><ins>Thank you for you Time : Happy coding ++</h3>
+<h3><ins>Thank you for your time to view my Profile : Happy coding ++</h3>
