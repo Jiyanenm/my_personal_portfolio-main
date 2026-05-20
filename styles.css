@@ -23,6 +23,26 @@ section {
     display: inline-block;
     padding-bottom: 10px;
 }
+/* Intro Box */
+.intro-box {
+    border: 1px solid #eef2ff;
+}
+
+.intro-profile-img {
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    border: 6px solid #f1f5f9;
+}
+
+.intro-box h3 {
+    color: #1e3a8a;
+}
+
+.intro-box .lead {
+    font-size: 1.1rem;
+    line-height: 1.8;
+}
 
 .section-title::after {
     content: '';
