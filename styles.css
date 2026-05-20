@@ -396,3 +396,45 @@ section {
         font-size: 1.5rem;
     }
 }
+/* Intro Section */
+#intro {
+    background: #ffffff;
+}
+
+.intro-content h2 {
+    color: #1e3a8a;
+}
+
+.intro-content .lead {
+    font-size: 1.2rem;
+    line-height: 1.8;
+}
+
+.intro-image img {
+    max-width: 400px;
+    border: 6px solid #f1f5f9;
+    transition: 0.3s ease;
+}
+
+.intro-image img:hover {
+    transform: translateY(-5px);
+}
+
+.intro-content .btn-primary {
+    background-color: #1e3a8a;
+    border: none;
+}
+
+.intro-content .btn-primary:hover {
+    background-color: #162d6b;
+}
+
+.intro-content .btn-outline-primary {
+    border-color: #1e3a8a;
+    color: #1e3a8a;
+}
+
+.intro-content .btn-outline-primary:hover {
+    background-color: #1e3a8a;
+    color: white;
+}
