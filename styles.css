@@ -438,3 +438,26 @@ section {
     background-color: #1e3a8a;
     color: white;
 }
+/* About Intro Section */
+#about .badge {
+    font-size: 0.9rem;
+    letter-spacing: 1px;
+}
+
+.about-highlight {
+    transition: all 0.3s ease;
+    border: 1px solid #eef2ff;
+}
+
+.about-highlight:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 12px 25px rgba(0,0,0,0.08);
+}
+
+.about-highlight i {
+    color: #1e3a8a;
+}
+
+#about h2 {
+    color: #1e3a8a;
+}
