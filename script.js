@@ -1,9 +1,8 @@
 // Typing Effect
 const typingText = document.getElementById('typing-text');
 
-const words = ["Software Quality Engineer", "Automation Specialist", "Technical Applications Specialist"]; // User's actual titles
+const words = ["Software Quality Engineer", "QA Automation Specialist","Manual Testing", "Technical Applications Specialist"]; // User's actual titles
 
-const words = ["QA Engineer", "Automation Specialist", "Technical Applications Specialist"]; // User's actual titles
 let wordIndex = 0;
 let charIndex = 0;
 let isDeleting = false;
